@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_ccba8daca317ec7a13c1892a58913d186d47427a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_e921693381bffd5905d4c23c2d25754a48522782\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\exploded-aar\com.github.npanigrahy\Custom-Calendar-View\v1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="39dc3bd7d37d4f5955432097fead1f4dd789e16c">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.npanigrahy-Custom-Calendar-View-v1.0_5bc3222da293beb644d3c75686eb67836acf134b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7df67a0f715dcbbca4595a6a12931fc49ed89287">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8671cd1345a089f6499ccef68114f6a07ce7ebd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b9eef175d665c5180203ff04e024b2c84d20312e">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a0b38a06c784a63bfbbf3b352fcc6a2130918bf7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_33635560f87e470cb674903ba8a3f92bdb3d279f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cbilb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\cbilb\Documents\TheUATKitchening-master(3)\TheUATKitchening-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_9e26dd9e838d1fdf6e295df5622abacadd882932\classes.dex" />
+    </item>
+
+</items>
